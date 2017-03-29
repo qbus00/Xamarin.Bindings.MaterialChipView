@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+    <metadata>
+        <id>Xamarin.Bindings.MaterialChipView</id>
+        <version>1.0.1-unstable</version>
+        <title>Xamarin.Bindings.MaterialChipView</title>
+        <authors>Jakub Kaprzyk [qbus00] - Bindings Library, robertlevonyan original author</authors>
+        <licenseUrl>https://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+        <projectUrl>https://github.com/qbus00/Xamarin.Bindings.MaterialChipView</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Binding library of https://github.com/robertlevonyan/materialChipView v1.0.1</description>
+        <tags>xamarin android monodroid xamarin.android</tags>
+        <dependencies>
+            <group targetFramework="MonoAndroid6.0">
+				<dependency id="Xamarin.Android.Support.v7.AppCompat" version="25.2.0-beta1" />
+            </group>
+        </dependencies>
+    </metadata>
+</package>

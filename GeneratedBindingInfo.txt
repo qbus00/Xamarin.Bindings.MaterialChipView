@@ -1,0 +1,16 @@
+Binding for:
+com.robertlevonyan.view:MaterialChipView:1.0.1
+
+Dependencies:
+
+MaterialChipView-1.0.1.aar,    Path=C:\Users\qbus\.gradle\caches\modules-2\files-2.1\com.robertlevonyan.view\MaterialChipView\1.0.1\5380adb82832c432e2805f3df9ffaf172589d788\MaterialChipView-1.0.1.aar
+	animated-vector-drawable-25.2.0.aar,    Path=C:\Android\extras\android\m2repository\com\android\support\animated-vector-drawable\25.2.0\animated-vector-drawable-25.2.0.aar
+	appcompat-v7-25.2.0.aar,    Path=C:\Android\extras\android\m2repository\com\android\support\appcompat-v7\25.2.0\appcompat-v7-25.2.0.aar
+	support-annotations-25.2.0.jar,    Path=C:\Android\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar
+	support-compat-25.2.0.aar,    Path=C:\Android\extras\android\m2repository\com\android\support\support-compat\25.2.0\support-compat-25.2.0.aar
+	support-core-ui-25.2.0.aar,    Path=C:\Android\extras\android\m2repository\com\android\support\support-core-ui\25.2.0\support-core-ui-25.2.0.aar
+	support-core-utils-25.2.0.aar,    Path=C:\Android\extras\android\m2repository\com\android\support\support-core-utils\25.2.0\support-core-utils-25.2.0.aar
+	support-fragment-25.2.0.aar,    Path=C:\Android\extras\android\m2repository\com\android\support\support-fragment\25.2.0\support-fragment-25.2.0.aar
+	support-media-compat-25.2.0.aar,    Path=C:\Android\extras\android\m2repository\com\android\support\support-media-compat\25.2.0\support-media-compat-25.2.0.aar
+	support-v4-25.2.0.aar,    Path=C:\Android\extras\android\m2repository\com\android\support\support-v4\25.2.0\support-v4-25.2.0.aar
+	support-vector-drawable-25.2.0.aar,    Path=C:\Android\extras\android\m2repository\com\android\support\support-vector-drawable\25.2.0\support-vector-drawable-25.2.0.aar
